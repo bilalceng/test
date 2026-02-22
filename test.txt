@@ -4,3 +4,11 @@ Hi this is the second commit
 
 
 This is the first commit of the feature-1
+
+This is the first commit of the feature-2
+
+This is the second commit of the feature-2
+
+This is the third commit of the feature-2
+
+Return back to the main
