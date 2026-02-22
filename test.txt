@@ -15,3 +15,5 @@ This is the third commit of the feature-2
 Return back to the main
 
 Third commit of the main 
+
+This is the second commit of the feature-3
